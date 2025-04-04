@@ -1,5 +1,5 @@
 # VIP_QML
 
--Implemented a quantum nueural network to train on financial datasets   
--Used an autoencoder to reduce the dimensionality of the dataset   
--Tested encoding data into the phase of qubits as well as encoding in amplitudes   
+Uses JavaFX to play an old style pong game   
+You can choose which side to play on and difficulty level. First to 3 wins   
+Click to start each round   
